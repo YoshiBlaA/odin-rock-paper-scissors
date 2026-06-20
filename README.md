@@ -24,9 +24,8 @@ This project is part of [The Odin Project](https://www.theodinproject.com/) Foun
 ## Project Structure
 
 ```
-rock-paper-scissors/
-├── index.html  # Entry point — loads the script in the browser
-└── game.js     # All game logic
+─ index.html  # Entry point — loads the script in the browser
+─ game.js     # All game logic
 ```
 
 ## Built With
